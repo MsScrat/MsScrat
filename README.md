@@ -1,7 +1,7 @@
 ### Hi, I'm Miriam 👋🏼
 
   🤓 I’m a student at Noroff, studying to be a front-end developer.  
-  🌱 This first year I have learned about HTML, CSS, JavaScript and webdesign.  
+  🌱 This first year I have learned about HTML, CSS, JavaScript, WordPress and webdesign using Figma.  
   🙌🏼 My study plans are: two years with front-end and one year with UX or UI design.  
 
   🌟 On my free-time I love gaming, cooking and spending time with my family.  
